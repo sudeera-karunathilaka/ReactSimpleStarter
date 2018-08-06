@@ -11,7 +11,7 @@ import VideoDetail from './components/video_detail';
 
 //Use "youtube-api-search" package for accessing youtube videos using following API keys.
 //This key is taken using Google API manager.
-const YOUTUBE_API_KEY='AIzaSyAZQ0Y5U0e1gMvf-hiluzWNkZJAKEMFRW4';
+const YOUTUBE_API_KEY='';
 
 //Create a new component. This component should produce some HTML
 class App extends Component{
