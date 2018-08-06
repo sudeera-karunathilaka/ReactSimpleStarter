@@ -1,6 +1,8 @@
-# ReduxSimpleStarter
 
-Interested in learning [Redux](https://www.udemy.com/react-redux/)?
+
+# ReactSimpleStarter
+
+This project covers the learning of [React & Redux](https://www.udemy.com/react-redux/) by Stephen Grider.
 
 ### Getting Started
 
